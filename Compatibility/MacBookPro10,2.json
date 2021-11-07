@@ -1,1 +1,19 @@
-
+{
+    "MacName": "MacBook Pro (Retina 13-inch, Late 2012)",
+    "Author": "@Solomon-Wood",
+    "Approved": [],
+    "Details": "Everything works out of the box except WiFi, which Patched Sur (Post-Install) can fix. FileVault and WPA2 Enterprise may work, but Personal Hotspots does not.",
+    "Works": [
+        "WiFi, Ethernet, and Bluetooth",
+        "I/O Ports",
+        "Graphics Acceleration",
+        "Sleep and Brightness"
+    ],
+    "Unknowns": [
+        "FileVault",
+        "WPA2 Enterprise"
+    ],
+    "Warns": [
+        "Personal Hotspots",
+    ]
+}
