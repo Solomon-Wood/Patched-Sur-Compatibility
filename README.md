@@ -1,6 +1,6 @@
 # Patched Sur Compatibility
 
-I'm going to improve this repo in the morning, but I'm making something quick so if you came from Mr. Macintosh's video you are prepared. If you are here already, either remind yourself to do it tomorrow or just do it now.
+I'm going to improve this repo in the morning, but I'm making something quick so if you came from Mr. Macintosh's video you are prepared. If you are here already, either remind yourself to do it tomorrow or just do it now, it's not like it's impossible to do it now, and it shouldn't be any harder.
 
 These will show up in the next release of Patched Sur (I know pre-v1.0.1 had this, but after the down time this entire repo was lost and I didn't set it up in time for v1.0.1)
 
