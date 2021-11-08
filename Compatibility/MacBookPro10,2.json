@@ -2,7 +2,7 @@
     "MacName": "MacBook Pro (Retina 13-inch, Late 2012)",
     "Author": "@Solomon-Wood",
     "Approved": [],
-    "Details": "Everything works out of the box except WiFi, which Patched Sur (Post-Install) can fix. FileVault doesn't work (there has been a workaround), Personal Hotspots does not (however there is a workaround, not included in Patched Sur), along with WPA2 Enterprise.",
+    "Details": "The MacBook Pro 13-inch Late 2012 model runs smoothly on Patched Sur. Out of the box, almost everything works except WiFi, which can be patched by PS Post-Install.",
     "Works": [
         "WiFi, Ethernet, and Bluetooth",
         "I/O Ports",
